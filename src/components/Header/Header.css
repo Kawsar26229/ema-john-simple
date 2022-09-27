@@ -1,0 +1,20 @@
+.header {
+    height: 80px;
+    background-color: #1c2b35;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 20px;
+    margin-right: 35px;
+    transition: color 0.1s;
+}
+
+.header a:hover {
+    color: rgba(255, 255, 255, 0.623);
+}
