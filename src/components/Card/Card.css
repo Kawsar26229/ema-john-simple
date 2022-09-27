@@ -1,0 +1,32 @@
+.cart {
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    color: #fff;
+}
+
+.btn-clear {
+    background-color: #FF3030;
+    transition: background 0.1s;
+}
+
+.btn-clear:hover {
+    background: #ff30309c;
+}
+
+.btn-review {
+    background-color: #FF9900;
+}
+
+.btn-review:hover {
+    background: #ff9900b6;
+}
